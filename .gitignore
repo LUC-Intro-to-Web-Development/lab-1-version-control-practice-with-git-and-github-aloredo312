@@ -1,0 +1,2 @@
+# Ignore any document that has a .txt extension
+.txt
